@@ -52,7 +52,7 @@ please consider giving it a **star ⭐** — it truly motivates me to keep learn
 
 ## 📢 About Me
 
-Hi, I’m **Priyanshee** 👋  
+Hi, I’m **Priyanshee Chouhan** 👋  
 I’m learning Python to strengthen my programming skills and prepare for Data Science and Machine learning projects.  
 This repository is part of my **daily self-learning routine**.
 
