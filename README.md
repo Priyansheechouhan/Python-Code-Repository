@@ -1,5 +1,5 @@
 # Python-Code-Repository
-## 🚀 Do you find python programming is tough then you will find something here which can help you to start and build better understanding of python(I wish it'll help you😇....... even a little bit it'll make me happy 🤗)
+## 🚀 Do you find python programming is tough then you will find something here which can help you to start and build better understanding of python(I wish it'll help you😇......... even a little bit it'll make me happy 🤗)
 
 This repository includes my daily Python practice files covering:
 
