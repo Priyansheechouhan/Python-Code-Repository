@@ -31,7 +31,7 @@ New topics and practice files get added regularly as I learn more each day.
 ## 🛠 Technologies Used
 
 - **Python 3.x**  
-- **Spyder/Google-Colab**
+- **Spyder**
 - **Git & GitHub** for version control  
 
 ---
